@@ -7,7 +7,7 @@
 
 The missing Transfermarkt per capita market value of national teams.
 
-[https://finalmanu.github.io/per-capita-football/](https://rydholm168.github.io/per-capita-football/)
+[https://rydholm168.github.io/per-capita-football/](https://rydholm168.github.io/per-capita-football/)
 
 ## What is *Transfermarkt*? <a href="https://www.transfermarkt.us/"><img src="https://tmsi.akamaized.net/head/transfermarkt_logo.svg" style="width: 50px; height: auto;"></a>
 
